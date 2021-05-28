@@ -1,5 +1,5 @@
 # Chess-Game
-Chess game - Made in C++
+This is a Multiplayer Chess game - Made in C++
 
 To run this, you need to install Visual Studio 2015 or above. After installing, open the solution in Visual Studio and Press Ctrl + F5. 
 
